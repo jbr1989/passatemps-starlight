@@ -1,0 +1,32 @@
+---
+title: Benvingut a Passatemps
+description: Get started building your docs site with Starlight.
+template: splash
+hero:
+  tagline: Podrás trobar tota la informació necesario per passar el temps!
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid stagger>
+	<a href="laberints/">
+	<Card title="Laberints" icon="pencil">
+		<img src="/img/laberint.png" alt="Laberints" class="rounded-lg"/>
+	</Card>
+	</a>
+	<a href="mots_encreuats/">
+	<Card title="Mots encreuats" icon="add-document">
+		<img src="/img/mots_encreuats.png" alt="Laberints" class="rounded-lg"/>
+	</Card>
+	</a>
+	<a href="sopa_lletres">
+	<Card title="Sopa de Lletres" icon="setting">
+		<img src="/img/sopa_lletres.png" alt="Laberints" class="rounded-lg"/>
+	</Card>
+	</a>
+	<a href="sudoku/">
+	<Card title="Sudoku" icon="open-book">
+		<img src="/img/sudoku.png" alt="Laberints" class="rounded-lg"/>
+	</Card>
+	</a>
+</CardGrid>
