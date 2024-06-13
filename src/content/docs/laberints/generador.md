@@ -17,7 +17,7 @@ sidebar:
 <p>Instruccions per fer un laberint:</p>
 <ol id="generador">
     <li>
-        Anem a la pàgina del generador de laberints, clica <a href="//www.genempire.com/generador-de-laberintos">aquí</a>.<br>
+        Anem a la pàgina del generador de laberints, clica <a href="//www.genempire.com/generador-de-laberintos" target="_blank">aquí</a>.<br>
         <img class="web" src="/img/laberints/generador1.jpg" alt="Pagina web del generador" title="Pagina web del generador"/>
     </li>
     <li>

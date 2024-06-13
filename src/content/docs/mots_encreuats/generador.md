@@ -5,6 +5,9 @@ description: A reference page in my new Starlight docs site.
 sidebar:
     label: Generador # Configura una etiqueta personalizada para el enlace
     order: 3
+    badge:
+        text: Obsolet
+        variant: danger
 ---
 
 <p><strong>Vols fer mots encreuats però no vols dibuixar-los?</strong></p>
@@ -14,7 +17,7 @@ sidebar:
 
 <ol id="generador">
     <li>
-        Anem a la pàgina del generador de mots encreuats, clica <a href="//www.genempire.com/generador-de-crucigramas">aquí</a>.<br>
+        Anem a la pàgina del generador de mots encreuats, clica <a href="//www.genempire.com/generador-de-crucigramas" target="_blank">aquí</a>.<br>
         <img class="web" src="/img/mots_encreuats/gen1.png" alt="Pagina web del generador" title="Pagina web del generador"/>
     </li>
     <li>

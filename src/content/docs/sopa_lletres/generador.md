@@ -14,7 +14,7 @@ sidebar:
 
 <ol id="generador">
     <li>
-        Anem a la pagina del generedor de sopes de lletres, clica <a href="//www.genempire.com/generador-sopa-de-letras">aquí</a>.<br>
+        Anem a la pagina del generedor de sopes de lletres, clica <a href="//www.genempire.com/generador-sopa-de-letras" target="_blank">aquí</a>.<br>
         <img class="web" src="/img/sopa_lletres/gen1.jpg" alt="Pagina web del generador" title="Pagina web del generador"/>
     </li>
     <li>

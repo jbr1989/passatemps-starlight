@@ -32,15 +32,72 @@ export default defineConfig({
 				},
 				{
 					label: 'Laberints',
-					autogenerate: { directory: 'laberints' },
+					items: [
+						// A link with a yellow "Stub" badge.
+						{
+							label: 'Definició i Historia',
+							link: '/laberints/'
+						},
+						{
+							label: 'Variants',
+							link: '/laberints/variants/'
+						},
+						{
+							label: 'Generador',
+							link: '/laberints/generador/',
+							badge: { text: 'Obsolet', variant: 'danger' },
+						},
+						{
+							label: 'Practicar',
+							link: '/laberints/practicar/'
+						},
+					],
 				},
 				{
 					label: 'Mots encreuats',
-					autogenerate: { directory: 'mots_encreuats' },
+					items: [
+						// A link with a yellow "Stub" badge.
+						{
+							label: 'Definició i Historia',
+							link: '/mots_encreuats/'
+						},
+						{
+							label: 'Variants',
+							link: '/mots_encreuats/variants/'
+						},
+						{
+							label: 'Generador',
+							link: '/mots_encreuats/generador/',
+							badge: { text: 'Obsolet', variant: 'danger' },
+						},
+						{
+							label: 'Practicar',
+							link: '/mots_encreuats/practicar/'
+						},
+					],
 				},
 				{
 					label: 'Sopa de lletres',
-					autogenerate: { directory: 'sopa_lletres' },
+					items: [
+						// A link with a yellow "Stub" badge.
+						{
+							label: 'Definició i Historia',
+							link: '/sopa_lletres/'
+						},
+						{
+							label: 'Estrategies',
+							link: '/sopa_lletres/estrategies/'
+						},
+						{
+							label: 'Generador',
+							link: '/sopa_lletres/generador/',
+							badge: { text: 'Obsolet', variant: 'danger' },
+						},
+						{
+							label: 'Practicar',
+							link: '/sopa_lletres/practicar/'
+						},
+					],
 				},
 				{
 					label: 'Sudoku',

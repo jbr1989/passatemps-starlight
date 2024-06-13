@@ -10,22 +10,21 @@ sidebar:
 <p>Si vols practicar resolent algunes sopes de lletres, aquí et deixo alguns enllaços:</p>
 
 <ul>
-    <li><strong>Sopes de lletres propis</strong> (<a href="activitats/activitats_sopa_lletres.php">per imprimir</a>).</li>
+    <li><strong>Sopes de lletres propis</strong> (<a href="/sopa_lletres/propis">per imprimir</a>).</li>
     <li><strong>Sopes de lletres externs:</strong>
         <ul>
             <li>Per imprimir
                 <ul>
                     <li><a href="//www.pekegifs.com/pekemundo/sopadeletras/sopadeletrasinfantiles.htm" target="_blank">Pekegifs.com</a>(Infantils, Castellà).</li>
                     <li><a href="//www.botanical-online.com/sopasdeletras/index.html" target="_blank">Botanical-onine.com</a> (Castellà).</li>
-                    <li><a href="//www.juegosdepalabras.com/sopas.htm" target="_blank">Juegosdepalabras.com</a> (Castellà).</li>
-                    <li><a href="//www.enplenitud.com/seccion.asp?seccionid=253" target="_blank">Enplenitud.com</a> (Castellà).</li>	
+                    <li><a href="//www.juegosdepalabras.com/sopas/sopas.htm" target="_blank">Juegosdepalabras.com</a> (Castellà).</li>
                 </ul>
             </li>
-            <li>Jugar online (La majoria tenen l'opció d'imprimir):
+            <!-- <li>Jugar online (La majoria tenen l'opció d'imprimir):
                 <ul>
                     <li><a href="//www.juegosweb.com/j/sopa_de_letras_3903" target="_blank">Juegosweb.com</a> (Anglès).</li>		
                 </ul>
-            </li>
+            </li> -->
         </ul>
     </li>
     <li><strong>Altres generadors:</strong>
