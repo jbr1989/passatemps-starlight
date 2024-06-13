@@ -69,15 +69,15 @@ sidebar:
         <ul>
             <li>
                 <p>¿On es pot posar l'1 al quadrat (3×3) esquerre?</p>
-                <img src="/img/sudoku/sudoku_elem-01a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-01a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>L'1 ja està en la fila superior i mitjana.</p>
-                <img src="/img/sudoku/sudoku_elem-01b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-01b.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Així doncs, solament pots posar-lo a <img src="/img/sudoku/taronja.gif" alt="Color taronja"/></p>
-                <img src="/img/sudoku/sudoku_elem-01c.gif" alt="Exemple"/>
+                <p>Així doncs, solament pots posar-lo a <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/></p>
+                <img src="/img/sudoku/resoldre/sudoku_elem-01c.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -85,19 +85,19 @@ sidebar:
         <ul>
             <li>
                 <p>Com fer-lo?</p>
-                <img src="/img/sudoku/sudoku_elem-02a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-02a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>No pot jutjar on col·locar-lo solament amb les files.</p>
-                <img src="/img/sudoku/sudoku_elem-02b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-02b.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Mira la columna, llavors...</p>
-                <img src="/img/sudoku/sudoku_elem-02c.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-02c.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Ara ja pots col·locar-lo a <img src="/img/sudoku/taronja.gif" alt="Color taronja"/></p>
-                <img src="/img/sudoku/sudoku_elem-02d.gif" alt="Exemple"/>
+                <p>Ara ja pots col·locar-lo a <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/></p>
+                <img src="/img/sudoku/resoldre/sudoku_elem-02d.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -105,19 +105,19 @@ sidebar:
         <ul>
             <li>
                 <p>On pots posar l'1 al quadrat d'alt-esquerre?</p>
-                <img src="/img/sudoku/sudoku_elem-03a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-03a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Mira les files al principi.</p>
-                <img src="/img/sudoku/sudoku_elem-03b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-03b.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Llavors, mira les columnes.</p>
-                <img src="/img/sudoku/sudoku_elem-03c.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-03c.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>En aquest cas solament pots posar-lo a <img src="/img/sudoku/taronja.gif" alt="Color taronja"/>.</p>
-                <img src="/img/sudoku/sudoku_elem-03d.gif" alt="Exemple"/>
+                <p>En aquest cas solament pots posar-lo a <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_elem-03d.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -126,19 +126,19 @@ sidebar:
             <li>
                 <p>On pots posar l'1 al quadrat d'alt-esquerre.<br/>
                 Aquest patró és fácil i important.</p>
-                <img src="/img/sudoku/sudoku_elem-04a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-04a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Primer de tot mira la fila en aquest cas.</p>
-                <img src="/img/sudoku/sudoku_elem-04b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-04b.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Després mira les columnes.</p>
-                <img src="/img/sudoku/sudoku_elem-04c.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-04c.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>En aquest cas solament hi ha una solució <img src="/img/sudoku/taronja.gif" alt="Color taronja"/>.</p>
-                <img src="/img/sudoku/sudoku_elem-04d.gif" alt="Exemple"/>
+                <p>En aquest cas solament hi ha una solució <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_elem-04d.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -147,15 +147,15 @@ sidebar:
             <li>
                 <p>Aquest és un altre patró.<br/>
                 On es posarà l'1 en el quadrat d'alt-esquerre.</p>
-                <img src="/img/sudoku/sudoku_elem-05a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-05a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>En aquesta fila hi ha els números del 2 al 9.</p>
-                <img src="/img/sudoku/sudoku_elem-05b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_elem-05b.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Per tant, l'1 solament pot anar en <img src="/img/sudoku/taronja.gif" alt="Color taronja"/>.</p>
-                <img src="/img/sudoku/sudoku_elem-05c.gif" alt="Exemple"/>
+                <p>Per tant, l'1 solament pot anar en <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_elem-05c.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -169,23 +169,23 @@ sidebar:
         <ul>
             <li>
                 <p>On pots posar l'1?</p>
-                <img src="/img/sudoku/sudoku_mid-01a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-01a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Primer mira les files i les columnes on hi ha un 1.</p>
-                <img src="/img/sudoku/sudoku_mid-01b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-01b.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>L'1 pot anar a dos llocs <img src="/img/sudoku/violeta.gif" alt="Color violeta"/>, per ara no podem posar-lo.</p>
-                <img src="/img/sudoku/sudoku_mid-01c.gif" alt="Exemple"/>
+                <p>L'1 pot anar a dos llocs <img src="/img/sudoku/resoldre/violeta.gif" alt="Color violeta"/>, per ara no podem posar-lo.</p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-01c.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Però si sabem que han d'anar en aquesta fila.</p>
-                <img src="/img/sudoku/sudoku_mid-01d.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-01d.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Per això l'1 solament pot anar aquí <img src="/img/sudoku/taronja.gif" alt="Color taronja"/>.</p>
-                <img src="/img/sudoku/sudoku_mid-01e.gif" alt="Exemple"/>
+                <p>Per això l'1 solament pot anar aquí <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-01e.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -193,23 +193,23 @@ sidebar:
         <ul>
             <li>
                 <p>On podem posar l'1?</p>
-                <img src="/img/sudoku/sudoku_mid-02a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-02a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Abans mira si hi ha algun 1 que t'afecti.</p>
-                <img src="/img/sudoku/sudoku_mid-02b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-02b.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Ara sabem que l'1 ha d'anar en la fila del mig <img src="/img/sudoku/violeta.gif" alt="Color violeta"/>.</p>
-                <img src="/img/sudoku/sudoku_mid-02c.gif" alt="Exemple"/>
+                <p>Ara sabem que l'1 ha d'anar en la fila del mig <img src="/img/sudoku/resoldre/violeta.gif" alt="Color violeta"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-02c.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Gràcies a això, podem descartar una fila més.</p>
-                <img src="/img/sudoku/sudoku_mid-02d.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-02d.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Així doncs, solament pot anar en un lloc <img src="/img/sudoku/taronja.gif" alt="Color taronja"/>.</p>
-                <img src="/img/sudoku/sudoku_mid-02e.gif" alt="Exemple"/>
+                <p>Així doncs, solament pot anar en un lloc <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-02e.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -218,15 +218,15 @@ sidebar:
             <li>
                 <p>A poc a poc, es va complicant però no et preocupes. Recorda <a href="resoldre_principiant_sudoku.php">l'exemple 2</a> del principiant.<br/>
                 On pots posar l'1?</p>
-                <img src="/img/sudoku/sudoku_mid-03a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-03a.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Mira les files i columnes, en aquest cas l'1 solament pot anar en la fila de dalt <img src="/img/sudoku/violeta.gif" alt="Color violeta"/>.</p>
-                <img src="/img/sudoku/sudoku_mid-03b.gif" alt="Exemple"/>
+                <p>Mira les files i columnes, en aquest cas l'1 solament pot anar en la fila de dalt <img src="/img/sudoku/resoldre/violeta.gif" alt="Color violeta"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-03b.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Per tant, l'1 solament pot anar en un lloc <img src="/img/sudoku/taronja.gif" alt="Color taronja"/>.</p>
-                <img src="/img/sudoku/sudoku_mid-03c.gif" alt="Exemple"/>
+                <p>Per tant, l'1 solament pot anar en un lloc <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-03c.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -234,19 +234,19 @@ sidebar:
         <ul>
             <li>
                 <p>On pot anar l'1?</p>
-                <img src="/img/sudoku/sudoku_mid-04a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-04a.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Pot anar en els dos <img src="/img/sudoku/violeta.gif" alt="Color violeta"/>.<br/>
+                <p>Pot anar en els dos <img src="/img/sudoku/resoldre/violeta.gif" alt="Color violeta"/>.<br/>
                 Has de mirar les columnes.</p>
-                <img src="/img/sudoku/sudoku_mid-04b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-04b.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>1 solament pot anar a <img src="/img/sudoku/taronja.gif" alt="Color taronja"/></p>
-                <img src="/img/sudoku/sudoku_mid-04c.gif" alt="Exemple"/>
+                <p>1 solament pot anar a <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/></p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-04c.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Quin número anirà a l'altra <img src="/img/sudoku/violeta.gif" alt="Color violeta"/>?</p>
+                <p>Quin número anirà a l'altra <img src="/img/sudoku/resoldre/violeta.gif" alt="Color violeta"/>?</p>
             </li>
         </ul>
     </li>
@@ -254,21 +254,21 @@ sidebar:
         <ul>
             <li>
                 <p>On poden anar l'1, el 8 i el 9?</p>
-                <img src="/img/sudoku/sudoku_mid-05a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_mid-05a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>En la fila superior hi ha els números del 2 al 7.<br/>
-                Això vol dir que l'1, el 8 i el 9 van en les tres <img src="/img/sudoku/violeta.gif" alt="Color violeta"/></p>
-                <img src="/img/sudoku/sudoku_mid-05b.gif" alt="Exemple"/>
+                Això vol dir que l'1, el 8 i el 9 van en les tres <img src="/img/sudoku/resoldre/violeta.gif" alt="Color violeta"/></p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-05b.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>En la columna esquerra hi ha els números 8 i 9.<br/>
-                Per això, el 8 i el 9 han d'anar a les <img src="/img/sudoku/violeta.gif" alt="Color violeta"/>.</p>
-                <img src="/img/sudoku/sudoku_mid-05c.gif" alt="Exemple"/>
+                Per això, el 8 i el 9 han d'anar a les <img src="/img/sudoku/resoldre/violeta.gif" alt="Color violeta"/>.</p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-05c.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>Després d'això l'1 solament pot anar a <img src="/img/sudoku/taronja.gif" alt="Color taronja"/></p>
-                <img src="/img/sudoku/sudoku_mid-05d.gif" alt="Exemple"/>
+                <p>Després d'això l'1 solament pot anar a <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/></p>
+                <img src="/img/sudoku/resoldre/sudoku_mid-05d.gif" alt="Exemple"/>
             </li>
         </ul>
     </li>
@@ -281,24 +281,24 @@ sidebar:
         <ul>
             <li>
                 <p>On poden anar el 2 i 3?</p>
-                <img src="/img/sudoku/sudoku_hard-01a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_hard-01a.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Has de mirar les files i columnes.</p>
-                <img src="/img/sudoku/sudoku_hard-01b.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_hard-01b.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>El 2 i el 3 han d'anar als <img src="/img/sudoku/violeta.gif" alt="Color violeta"/></p>
-                <img src="/img/sudoku/sudoku_hard-01c.gif" alt="Exemple"/>
+                <p>El 2 i el 3 han d'anar als <img src="/img/sudoku/resoldre/violeta.gif" alt="Color violeta"/></p>
+                <img src="/img/sudoku/resoldre/sudoku_hard-01c.gif" alt="Exemple"/>
             </li>
             <li>
                 <p>Ara mira on pot anar l'1.</p>
-                <img src="/img/sudoku/sudoku_hard-01d.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_hard-01d.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>L'1 solament pot anar a <img src="/img/sudoku/taronja.gif" alt="Color taronja"/>.
+                <p>L'1 solament pot anar a <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/>.
                 Perquè els altres estan ocupats.</p>
-                <img src="/img/sudoku/sudoku_hard-01e.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_hard-01e.gif" alt="Exemple"/>
             </li>
         </ul>
         </li>
@@ -306,11 +306,11 @@ sidebar:
         <ul>
             <li>
                 <p>On pot anar l'1?</p>
-                <img src="/img/sudoku/sudoku_hard-02a.gif" alt="Exemple"/>
+                <img src="/img/sudoku/resoldre/sudoku_hard-02a.gif" alt="Exemple"/>
             </li>
             <li>
-                <p>El 1 és l'únic número que pot anar a <img src="/img/sudoku/taronja.gif" alt="Color taronja"/>, ja que els números del 5 al 9 no poden anar per la raó que estan en la mateixa fila o columna</p>
-                <img src="/img/sudoku/sudoku_hard-02b.gif" alt="Exemple"/>
+                <p>El 1 és l'únic número que pot anar a <img src="/img/sudoku/resoldre/taronja.gif" alt="Color taronja"/>, ja que els números del 5 al 9 no poden anar per la raó que estan en la mateixa fila o columna</p>
+                <img src="/img/sudoku/resoldre/sudoku_hard-02b.gif" alt="Exemple"/>
             </li>
         </ul>
         </li>

@@ -15,26 +15,26 @@ sidebar:
 <ol id="generador">
     <li>
         Anem a la pàgina del generador de mots encreuats, clica <a href="//www.genempire.com/generador-de-crucigramas">aquí</a>.<br>
-        <img class="web" src="/img/mots_encruats/gen1.png" alt="Pagina web del generador" title="Pagina web del generador"/>
+        <img class="web" src="/img/mots_encreuats/gen1.png" alt="Pagina web del generador" title="Pagina web del generador"/>
     </li>
     <li>
         Posem el títol.<br>
-        <img src="/img/mots_encruats/gen2.png" alt="Títol"/>
+        <img src="/img/mots_encreuats/gen2.png" alt="Títol"/>
     </li>
     <li>
         Introduïm les paraules i les descripcions (pistes). <br>
-        <img src="/img/mots_encruats/gen3.png" alt="Paraules i descripcions" title="Paraules i descripcions"/><br>
-        Per introduir més paraules, clicar a <img src="/img/mots_encruats/gen4.jpg" alt="Boto d'agregar" title="Boto d'agregar"/><br>
-        Per eliminar alguna paraula només has de clicar a la <img src="/img/mots_encruats/gen5.png" alt="Creu"/>.<br>
+        <img src="/img/mots_encreuats/gen3.png" alt="Paraules i descripcions" title="Paraules i descripcions"/><br>
+        Per introduir més paraules, clicar a <img src="/img/mots_encreuats/gen4.jpg" alt="Boto d'agregar" title="Boto d'agregar"/><br>
+        Per eliminar alguna paraula només has de clicar a la <img src="/img/mots_encreuats/gen5.png" alt="Creu"/>.<br>
     </li>
     <li>
         Introduïdes totes les paraules i definicions, cliquem a “Generar Crucigramas”.<br>
-        <img src="/img/mots_encruats/gen6.png" alt="Boto de generar" title="Boto de generar"/>
+        <img src="/img/mots_encreuats/gen6.png" alt="Boto de generar" title="Boto de generar"/>
     </li>
 </ol>
 
 <p>Llavors ens sortirà els mots encreuats i la seva solució:</p>
-<img class="web" src="/img/mots_encruats/gen7.jpg" alt="Solució" title="Solució"/>
+<img class="web" src="/img/mots_encreuats/gen7.jpg" alt="Solució" title="Solució"/>
 
 <p>Per a descarregar només haurem de clicar amb el botó dret del ratolí a sobre dels mots encreuats i clicar a “Guardar imagen como...”:</p>
-<img class="web" src="/img/mots_encruats/gen8.png" alt="Guardar como" title="Guardar como"/>
+<img class="web" src="/img/mots_encreuats/gen8.png" alt="Guardar como" title="Guardar como"/>
